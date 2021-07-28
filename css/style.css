@@ -62,3 +62,15 @@
   .social{
     font-size: 3em
   }
+
+  .grow{
+    flex: 0 0 0 !important
+  }
+
+  .list_element:hover{
+    border-bottom: 1px solid white
+  }
+
+  .list_element{
+    border-bottom: 1px solid #212529
+  }
